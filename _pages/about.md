@@ -41,8 +41,7 @@ For site content, there is one Markdown file for each type of content, which are
 
 **Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+I am an Associate Professor at the Institute for Materials Research, Tohoku University. My research focuses on quantum transport, spintronics, magnonics, and dynamical quasiparticles in ferroelectrics.
 
 How to edit your site's GitHub repository
 ------
